@@ -42,7 +42,7 @@ aigc-reducer/
 
 ## 安装
 
-下载 `aigc-reducer.skill` 文件，在 Claude 的 Skill 管理界面中导入即可。
+下载 `aigc-reducer.skill` 文件，在 Skill 管理界面中导入即可。
 
 ---
 
